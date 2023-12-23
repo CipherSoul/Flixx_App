@@ -2,4 +2,4 @@
 
 ### Mini Project
 
--- This is an example to make a merge conflict
+-- I made an Change in line 5
